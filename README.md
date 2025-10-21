@@ -1,5 +1,4 @@
-This is a readme file to make sure everything is run correctly.
-If each file is ran, the plots and results should be all presented.
+
 
 
 1) Plots.py
@@ -29,10 +28,5 @@ I talk about in the report
 IMPORTANT: the 4D minimiser results take a lot of time, if you want to comment them out feel free.
 
 
-The data file was separated into two to make it easier:
-
-5) data.txt
-
-6) pred.txt
 
 
